@@ -1,0 +1,9 @@
+{
+	"name": "adwnew",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6f4d4735-92b3-4c2e-9395-8f5bd8b7c877",
+		"tenantId": "ff355289-721e-4dd7-a663-afec62ab9d54"
+	}
+}
