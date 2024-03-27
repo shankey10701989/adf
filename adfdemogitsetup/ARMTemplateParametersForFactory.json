@@ -4,6 +4,12 @@
 	"parameters": {
 		"factoryName": {
 			"value": "adfdemogitsetup"
+		},
+		"ls_sql_connectionString": {
+			"value": ""
+		},
+		"ls_stblob_connectionString": {
+			"value": ""
 		}
 	}
 }
